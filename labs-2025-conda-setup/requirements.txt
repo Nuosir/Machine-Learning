@@ -1,6 +1,0 @@
-matplotlib
-torch
-torchvision
-torchaudio
-numpy
-torchviz
