@@ -1,0 +1,15 @@
+name: labs-2025
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - pytorch
+  - torchvision
+  - torchaudio
+  - jupyter
+  - pip
+  - pip:
+      - torchviz
+      - other-package-name  # Replace with any additional pip packages needed
